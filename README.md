@@ -1,0 +1,1 @@
+# dmstyle-for-factory
